@@ -2,7 +2,7 @@
 
 ### Python Developer👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-Duvan_Villadiego-blue)](https://www.linkedin.com/in/duvan-villadiego/)
+[![](https://img.shields.io/badge/LinkedIn-Elias_Calixto-blue)](https://www.linkedin.com/in/duvan-villadiego/)
 [![](https://img.shields.io/badge/Instagram-Duvan_Villadiego-c13584)](https://www.instagram.com/duvanvilladiego/)
 
 ### A little more about me...  
