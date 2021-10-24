@@ -3,7 +3,7 @@
 ### Python Developer👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Elias_Calixto-blue)](https://www.linkedin.com/in/elias-calixto/)
-[![](https://img.shields.io/badge/Instagram-darkesthj99-c13584)](https://www.instagram.com/darkesthj99/)
+[![](https://img.shields.io/badge/Instagram-darkesthj99-green)](https://www.instagram.com/darkesthj99/)
 
 ### A little more about me...  
 
