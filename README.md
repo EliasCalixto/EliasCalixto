@@ -1,4 +1,4 @@
-<img align='right' src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b761143ff1905df8f00aba8dfbc58dbf281556dc5c019&rid=giphy.gif&ct=g" width="250">
+<img align='right' src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b761143ff1905df8f00aba8dfbc58dbf281556dc5c019&rid=giphy.gif&ct=g" width="260">
 
 ### Python Developer / Business Administrator👨‍💻
 
