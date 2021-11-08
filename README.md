@@ -11,6 +11,6 @@
 const Me = {
     pronouns: "He" | "Him",
     askMeAbout: ["Tech", "Music", "Vim", "Peruvian Food"],
-    languages: ["Python","JavaScript", "HTML", "CSS", "MySQL"]
+    languages: ["Python","JavaScript", "HTML", "CSS", "MySQL", "php"]
 }
 ```
