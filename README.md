@@ -9,8 +9,8 @@
 
 ```javascript
 const Me = {
-    pronouns: "He" | "Him";
-    askMeAbout: ["Tech", "Music", "Vim", "Peruvian Food"];
-    languages: ["Python","MySQL", "R"];
+    pronouns: "He" | "Him"
+    askMeAbout: ["Tech", "Music", "Vim", "Peruvian Food"]
+    languages: ["Python","MySQL", "R"]
 }
 ```
