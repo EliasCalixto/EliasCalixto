@@ -10,7 +10,7 @@
 ```javascript
 const Me = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Data","Tech", "Poker", "Vim", "Peruvian Food"],
+    askMeAbout: ["Data","Tech", "Vim", "Peruvian Food"],
     languages: ["Python","MySQL", "R"],
 }
 ```
