@@ -1,3 +1,3 @@
 Hi there, I'm Elias 👋
 
-🌱 Systems Engineer with experience in software development using Python.
+🌱 Business & Systems Engineer with experience in software development using Python.
